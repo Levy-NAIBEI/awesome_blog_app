@@ -1,6 +1,6 @@
-## Blog APP using Flask
+# Blog APP using Flask
 
-# How to get the app working
+## How to get the app working
 To run the app in your pc, clone the repository:
 git remote clone origin https://github.com/Levy-NAIBEI/awesome_blog_app.git
 
